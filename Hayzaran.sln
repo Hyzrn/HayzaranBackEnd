@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayzaran.API", "Hayzaran.API\Hayzaran.API.csproj", "{C73CD3E3-AD18-4C07-83F3-B2F16DBFCEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayzaran.Core", "Hayzaran.Core\Hayzaran.Core.csproj", "{33DEA277-B725-4887-A016-62F749A2C9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayzaran.Data", "Hayzaran.Data\Hayzaran.Data.csproj", "{B35FA94B-4A80-4C00-9F11-962F482CA9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayzaran.Service", "Hayzaran.Service\Hayzaran.Service.csproj", "{E6B6DB3A-BC6F-4650-B68D-AE87DCAA7010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73CD3E3-AD18-4C07-83F3-B2F16DBFCEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73CD3E3-AD18-4C07-83F3-B2F16DBFCEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73CD3E3-AD18-4C07-83F3-B2F16DBFCEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73CD3E3-AD18-4C07-83F3-B2F16DBFCEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DEA277-B725-4887-A016-62F749A2C9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DEA277-B725-4887-A016-62F749A2C9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DEA277-B725-4887-A016-62F749A2C9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DEA277-B725-4887-A016-62F749A2C9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35FA94B-4A80-4C00-9F11-962F482CA9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35FA94B-4A80-4C00-9F11-962F482CA9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35FA94B-4A80-4C00-9F11-962F482CA9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35FA94B-4A80-4C00-9F11-962F482CA9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B6DB3A-BC6F-4650-B68D-AE87DCAA7010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B6DB3A-BC6F-4650-B68D-AE87DCAA7010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B6DB3A-BC6F-4650-B68D-AE87DCAA7010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B6DB3A-BC6F-4650-B68D-AE87DCAA7010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBE98C5-40D5-4027-A512-E9E740251DA3}
+	EndGlobalSection
+EndGlobal

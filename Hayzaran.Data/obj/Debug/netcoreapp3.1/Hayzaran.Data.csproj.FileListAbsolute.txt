@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Data.deps.json
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Data.runtimeconfig.json
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Data.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Data.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Data.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Core.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\bin\Debug\netcoreapp3.1\Hayzaran.Core.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.AssemblyInfo.cs
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.csproj.CopyComplete
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Data\obj\Debug\netcoreapp3.1\Hayzaran.Data.pdb

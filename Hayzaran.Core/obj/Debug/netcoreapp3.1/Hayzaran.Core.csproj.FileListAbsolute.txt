@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\bin\Debug\netcoreapp3.1\Hayzaran.Core.deps.json
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\bin\Debug\netcoreapp3.1\Hayzaran.Core.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\bin\Debug\netcoreapp3.1\Hayzaran.Core.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\obj\Debug\netcoreapp3.1\Hayzaran.Core.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\obj\Debug\netcoreapp3.1\Hayzaran.Core.AssemblyInfo.cs
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\obj\Debug\netcoreapp3.1\Hayzaran.Core.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Core\obj\Debug\netcoreapp3.1\Hayzaran.Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Service.deps.json
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Service.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Service.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Core.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Data.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Core.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\bin\Debug\netcoreapp3.1\Hayzaran.Data.pdb
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.AssemblyInfo.cs
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.csproj.CopyComplete
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.dll
+C:\Users\asus\source\repos\Hayzaran\Hayzaran.Service\obj\Debug\netcoreapp3.1\Hayzaran.Service.pdb
